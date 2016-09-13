@@ -1,2 +1,1 @@
-# hello_world
-just another repository
+python is a good language for our team work
